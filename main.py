@@ -1,2 +1,2 @@
-# using python in the shell
+# using python
 print ("Hello")
